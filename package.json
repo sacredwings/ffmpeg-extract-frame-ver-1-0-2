@@ -1,0 +1,26 @@
+{
+  "name": "ffmpeg-extract-frame-ver-1-0-2",
+  "version": "0.0.1",
+  "description": "Extracts a single frame from a video.",
+  "main": "index.js",
+  "repository": "https://github.com/transitive-bullshit/ffmpeg-extract-frame.git",
+  "author": "Alexander Grachev <stronggenius@mail.ru>",
+  "license": "MIT",
+  "reveal": true,
+  "scripts": {
+    "test": "ava -v && standard"
+  },
+  "keywords": [
+    "ffmpeg",
+    "fluent-ffmpeg"
+  ],
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "sharp": "^0.20.1",
+    "standard": "^11.0.0",
+    "tempy": "^0.2.1"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^fluent-ffmpeg-ver-2-1-2"
+  }
+}
