@@ -1,6 +1,6 @@
 {
   "name": "ffmpeg-extract-frame-ver-1-0-2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Extracts a single frame from a video.",
   "main": "index.js",
   "repository": "https://github.com/transitive-bullshit/ffmpeg-extract-frame.git",
@@ -21,6 +21,6 @@
     "tempy": "^0.2.1"
   },
   "dependencies": {
-    "fluent-ffmpeg-ver-2-1-2": "^0.0.2"
+    "fluent-ffmpeg-ver-2-1-2": "^0.0.3"
   }
 }
